@@ -43,7 +43,7 @@ $ cd spaceshooter
 $ double click on index.html
 
 # Movement
-$ arrow keys (up, down, left, right)
+$ 'arrow' keys (up, down, left, right)
 
 # Fire
 $ 'enter' key
