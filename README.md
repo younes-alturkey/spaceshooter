@@ -50,8 +50,6 @@ $ Enter key
 
 ```
 
-Note: the game is in alpha version as of now
-
 ## License
 
 [MIT](https://github.com/younes-alturkey/spaceshooter/blob/main/LICENSE.md)
