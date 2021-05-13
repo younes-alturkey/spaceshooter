@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/YounesAlturkey/spaceshooter/blob/main/demo.gif" alt="demo"/>
+  <img src="https://github.com/younes-alturkey/spaceshooter/blob/main/demo.gif" alt="demo"/>
 </p>
 
 ## Key Features
@@ -34,7 +34,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/YounesAlturkey/spaceshooter.git
+$ git clone https://github.com/younes-alturkey/spaceshooter.git
 
 # Go into the repository
 $ cd spaceshooter
@@ -54,7 +54,7 @@ Note: the game is in alpha version as of now
 
 ## License
 
-[MIT](https://github.com/YounesAlturkey/spaceshooter/blob/main/LICENSE.md)
+[MIT](https://github.com/younes-alturkey/spaceshooter/blob/main/LICENSE.md)
 
 ## Developer
 
