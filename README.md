@@ -46,7 +46,10 @@ $ double click on index.html
 $ arrow keys (up, down, left, right)
 
 # Fire
-$ Enter key
+$ 'enter' key
+
+# Refresh
+$ 'r' key
 
 ```
 
